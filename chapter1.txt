@@ -1,1 +1,1 @@
-Hello, this is a text file
+This is my first document in git
